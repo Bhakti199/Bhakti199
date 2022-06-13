@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Bhakti Kharatkar</h1>
+<h2 align="center">Frontend developer</h2>
 
-<!--
-**Bhakti199/Bhakti199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently Working with  **ReactJS**, **JavaScript**, **HTML**, **CSS**, **Redux Toolkit**, **TypeScript**
 
-Here are some ideas to get you started:
+<!-- -  You can find my portfolio at ->  -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 Have a look over my blogs -> [Hashnode](https://bhaktee.hashnode.dev/)
+
+<h3 align="left">Connect with me:</h3>
+
+-  [Linkedin](https://www.linkedin.com/in/bhakti-kharatkar-33178a200/)
+-  [Twitter](https://twitter.com/Bhaktee_)
