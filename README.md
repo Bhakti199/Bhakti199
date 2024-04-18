@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Bhakti Kharatkar</h1>
 <h2 align="center">Frontend developer</h2>
 
-- 🌱 I’m currently Working with  **ReactJS**, **NextJS**, **JavaScript**, **HTML**, **CSS**, **Redux Toolkit**, **TypeScript**
+- 🌱 I’m currently Working with  **ReactJS**, **NextJS**, **React Query**, **JavaScript**, **Redux**, **Redux Toolkit**, **TypeScript**, **HTML**, **CSS**
 
 <!-- -  You can find my portfolio at ->  -->
 
